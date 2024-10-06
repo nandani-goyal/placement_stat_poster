@@ -1,0 +1,1 @@
+# placement_stat_poster
