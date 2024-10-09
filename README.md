@@ -12,5 +12,6 @@
   ![Screenshot 2024-10-09 224341](https://github.com/user-attachments/assets/950ccb31-ddc7-46d4-8f90-82b134aea334)
   ![Screenshot 2024-10-09 224400](https://github.com/user-attachments/assets/cbca3a79-0851-42de-b3d1-d4ca0c700f2c)
   ![Screenshot 2024-10-09 224409](https://github.com/user-attachments/assets/5763f131-c558-4e95-88bf-91dc4859f719)
+  ![Screenshot 2024-10-09 224416](https://github.com/user-attachments/assets/27e28d00-d73b-485b-b4ec-9ec0301ad002)
   # figma link for photo gallery
      https://www.figma.com/design/9GvLo69aR2htTXABZaFfFy/Untitled?node-id=0-1&t=Sg5SbL1Ggz9nZDHb-1
